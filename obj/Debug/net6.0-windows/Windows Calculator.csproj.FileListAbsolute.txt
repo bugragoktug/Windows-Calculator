@@ -1,0 +1,16 @@
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\bin\Debug\net6.0-windows\Windows Calculator.exe
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\bin\Debug\net6.0-windows\Windows Calculator.deps.json
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\bin\Debug\net6.0-windows\Windows Calculator.runtimeconfig.json
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\bin\Debug\net6.0-windows\Windows Calculator.dll
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\bin\Debug\net6.0-windows\Windows Calculator.pdb
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows_Calculator.Form1.resources
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.csproj.GenerateResource.cache
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.AssemblyInfoInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.AssemblyInfo.cs
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.csproj.CoreCompileInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.dll
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\refint\Windows Calculator.dll
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.pdb
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\Windows Calculator.genruntimeconfig.cache
+C:\Users\bugra\OneDrive\Masaüstü\Windows-Calculator-master\Windows Calculator\obj\Debug\net6.0-windows\ref\Windows Calculator.dll
